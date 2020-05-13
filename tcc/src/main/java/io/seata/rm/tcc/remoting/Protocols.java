@@ -47,4 +47,9 @@ public class Protocols {
      */
     public static final short HSF = 8;
 
+    /**
+     * motan service
+     */
+    public static final short MOTAN = 9;
+
 }
